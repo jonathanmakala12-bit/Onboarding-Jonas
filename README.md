@@ -10,6 +10,7 @@ To become a Cyber security personnel and AI Engineer
   1. Networking
   2. Database Management
   3. App Development
+  4. Machine Learning 
 
 - in 2-5 Years time : To be a Computer Engineer who improves the Tech of Zambia
 

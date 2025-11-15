@@ -18,7 +18,9 @@ To become a Cyber security personnel and AI Engineer
 Projects from class
 1. CA and Exam Score Calculator
 2. ZRA Calculator
+   
 Personal Projects
+
 1. Factorial Calculator C++
 2. Area of a Quadratic Function and the roots C++
 
